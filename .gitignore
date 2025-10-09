@@ -42,4 +42,7 @@
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore folder and folder which is not necessary
 Template.ipynb
+Scripts
