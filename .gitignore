@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
